@@ -1,5 +1,5 @@
 {
-    "name": "noc-med/doctrine-mongo-odm-module",
+    "name": "nocvp/doctrine-mongo-odm-module",
     "description": "Zend Framework 2 Module that provides Doctrine MongoDB ODM functionality",
     "type": "library",
     "keywords": [
